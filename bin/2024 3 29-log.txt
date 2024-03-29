@@ -1,0 +1,4 @@
+16:40:17 -> [error]] first log message!
+16:40:17 -> [error]] /tmp/tmp.usTqXZRrxg/example/callee/friendservice.cpp:main:44
+16:40:17 -> [info]] service_name FriendServiceRpc
+16:40:17 -> [info]] method_name GetFriendList

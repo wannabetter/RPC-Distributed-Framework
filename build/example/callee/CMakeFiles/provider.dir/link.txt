@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/provider.dir/friendservice.cpp.o CMakeFiles/provider.dir/__/friend.pb.cc.o  -o ../../../bin/provider  -L/tmp/tmp.usTqXZRrxg/lib  -L/root/GaoSheng/build/release-install-cpp11/lib -Wl,-rpath,/tmp/tmp.usTqXZRrxg/lib:/root/GaoSheng/build/release-install-cpp11/lib ../../../lib/libmprpc.a -lprotobuf -lmuduo_net -lmuduo_base -lpthread -lzookeeper_mt 
