@@ -1,7 +1,3 @@
-//
-// Created by DELL on 2024/3/28.
-//
-
 #include <time.h>
 #include "logger.h"
 #include <iostream>

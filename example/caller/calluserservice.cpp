@@ -1,7 +1,3 @@
-//
-// Created by DELL on 2024/3/25.
-//
-
 #include <iostream>
 #include "user.pb.h"
 #include "mprpcchannel.h"

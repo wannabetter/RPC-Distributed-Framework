@@ -1,6 +1,3 @@
-//
-// Created by DELL on 2024/3/24.
-//
 #include <string>
 #include <iostream>
 #include "user.pb.h"

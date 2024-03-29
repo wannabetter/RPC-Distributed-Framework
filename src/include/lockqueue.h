@@ -1,7 +1,3 @@
-//
-// Created by DELL on 2024/3/28.
-//
-
 #ifndef MPRPC_LOCKQUEUE_H
 #define MPRPC_LOCKQUEUE_H
 

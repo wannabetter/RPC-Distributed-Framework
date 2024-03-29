@@ -1,7 +1,3 @@
-//
-// Created by DELL on 2024/3/25.
-//
-
 #ifndef MPRPC_MPRPCCHANNEL_H
 #define MPRPC_MPRPCCHANNEL_H
 

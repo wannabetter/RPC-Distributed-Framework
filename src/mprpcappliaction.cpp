@@ -1,6 +1,3 @@
-//
-// Created by DELL on 2024/3/24.
-//
 #include <unistd.h>
 
 #include <iostream>

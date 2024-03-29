@@ -1,7 +1,3 @@
-//
-// Created by DELL on 2024/3/29.
-//
-
 #ifndef MPRPC_ZOOKEEPERUTIL_H
 #define MPRPC_ZOOKEEPERUTIL_H
 

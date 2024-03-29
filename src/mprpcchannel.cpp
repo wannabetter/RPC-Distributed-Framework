@@ -1,7 +1,3 @@
-//
-// Created by DELL on 2024/3/25.
-//
-
 #include <string>
 #include <errno.h>
 #include <unistd.h>
@@ -54,7 +50,7 @@ void MprpcChannel::CallMethod(const google::protobuf::MethodDescriptor *method,
         controller->SetFailed(err_txt);
         return;
     }
-    
+
     ZkClient zkCli;
     zkCli.Start();
     std::string method_path = "/" + service_name + "/" + method_name;

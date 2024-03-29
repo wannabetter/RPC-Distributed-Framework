@@ -1,7 +1,3 @@
-//
-// Created by DELL on 2024/3/28.
-//
-
 #ifndef MPRPC_MPRPCCONTROLLER_H
 #define MPRPC_MPRPCCONTROLLER_H
 

@@ -1,6 +1,3 @@
-//
-// Created by DELL on 2024/3/24.
-//
 #include "logger.h"
 #include "rpcprovider.h"
 #include "rpcheader.pb.h"

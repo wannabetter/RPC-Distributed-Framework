@@ -1,7 +1,3 @@
-//
-// Created by DELL on 2024/3/29.
-//
-
 #include <iostream>
 #include <semaphore.h>
 #include "zookeeperutil.h"
